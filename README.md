@@ -1,4 +1,4 @@
 # README
-## Illas
+## ⵉⵍⵍⴰⵙ (Illas)
 
 Dark Theme
