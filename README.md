@@ -2,5 +2,3 @@
 ## Illas
 
 Dark Theme
-
-**Enjoy!**
