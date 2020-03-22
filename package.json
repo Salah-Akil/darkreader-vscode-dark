@@ -1,5 +1,6 @@
 {
-	"publisher": "akil-s",
+    "publisher": "akil-s",
+    "repository": "https://github.com/Salah-Akil/illas-theme.git",
     "name": "illas",
     "displayName": "Illas",
     "description": "Dark theme for VSCode",
