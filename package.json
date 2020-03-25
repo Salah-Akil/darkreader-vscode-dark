@@ -4,7 +4,7 @@
     "name": "illas",
     "displayName": "Illas",
     "description": "Dark theme for VSCode",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.43.0"
     },
