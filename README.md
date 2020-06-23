@@ -1,3 +1,3 @@
-## DarkReader - VSCode Dark Theme
+## DarkReader - VSCode Theme (Dark)
 
 Dark Theme
