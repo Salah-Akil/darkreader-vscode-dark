@@ -1,3 +1,3 @@
-## ⵉⵍⵍⴰⵙ (Illas)
+## DarkReader - VSCode Theme (Dark)
 
 Dark Theme
