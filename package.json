@@ -1,10 +1,10 @@
 {
     "publisher": "akil-s",
     "repository": "https://github.com/Salah-Akil/illas-theme.git",
-    "name": "illas",
-    "displayName": "Illas",
+    "name": "tahiti-night",
+    "displayName": "Tahiti (Night)",
     "description": "Dark theme for VSCode",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "engines": {
         "vscode": "^1.43.0"
     },
@@ -14,7 +14,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Illas",
+                "label": "Tahiti (Night)",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Illas-color-theme.json"
             }
