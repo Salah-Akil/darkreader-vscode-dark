@@ -9,7 +9,7 @@
   Dark Version
 </h5>
 <p align="center">
-  A simple, dark theme for <a href="https://google.com/">VS Code</a>.
+  A simple dark theme for <a href="https://google.com/">VS Code</a>.
 </p>
 
 ![demo](https://github.com/Salah-Akil/tokyo-vscode-dark/blob/master/images/vscode.png?raw=true)
