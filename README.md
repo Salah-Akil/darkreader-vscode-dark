@@ -6,7 +6,7 @@
 </h1>
 <h1 align="center">東京</h1>
 <h5 align="center">
-  dark Version
+  Dark Version
 </h5>
 <p align="center">
   A simple, dark theme for <a href="https://google.com/">VS Code, Atom, iTerm and more</a>.
@@ -57,4 +57,4 @@ The folder and files icon theme used in the screenshot above is [VSCode-Icons](h
 
 ## Shameless Plug
 
-Tokyo dark theme is also available for [Atom, iTerm, and more!](https://google.com/).
+Tokyo Dark theme is also available for [Atom, iTerm, and more!](https://google.com/).
