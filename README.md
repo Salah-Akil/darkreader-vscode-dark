@@ -1,3 +1,3 @@
-## DarkReader - VSCode Theme (Dark)
+## Tokyo - VSCode Theme (Dark)
 
 Dark Theme
