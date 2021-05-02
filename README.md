@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img alt="Tokyo Logo" src="https://raw.githubusercontent.com/Salah-Akil/darkreader-vscode-dark/master/images/logo.png" width="100" />
-</p>
+</p> -->
 <h1 align="center">
   Tokyo Theme for VS Code
 </h1>
@@ -9,12 +9,10 @@
   Dark Version
 </h5>
 <p align="center">
-  A simple, dark theme for <a href="https://google.com/">VS Code, Atom, iTerm and more</a>.
+  A simple, dark theme for <a href="https://google.com/">VS Code</a>.
 </p>
 
-
-![demo](https://raw.githubusercontent.com/Salah-Akil/darkreader-vscode-dark/master/images/theme-dark.png)
-![demo](https://raw.githubusercontent.com/Salah-Akil/darkreader-vscode-dark/master/images/theme-dark-dual.png)
+![demo](https://github.com/Salah-Akil/tokyo-vscode-dark/blob/master/images/vscode.png?raw=true)
 
 ## Installation via VS Code
 
@@ -38,12 +36,16 @@ The folder and files icon theme used in the screenshot above is [VSCode-Icons](h
 
 |                               Color                                | Usage                                           |
 | :----------------------------------------------------------------: | ----------------------------------------------- |
-| ![#c3a6ff](https://via.placeholder.com/10/c3a6ff?text=+) `#c3a6ff` | Keywords, constants, template literals          |
-| ![#ffd580](https://via.placeholder.com/10/ffd580?text=+) `#ffd580` | Functions, classes, object literal keys         |
-| ![#ffae57](https://via.placeholder.com/10/ffae57?text=+) `#ffae57` | Constants, operators                            |
-| ![#bae67e](https://via.placeholder.com/10/bae67e?text=+) `#bae67e` | Strings, markdown headings                      |
-| ![#5ccfe6](https://via.placeholder.com/10/5ccfe6?text=+) `#5ccfe6` | Special keywords, classes, markdown code blocks |
-| ![#a2aabc](https://via.placeholder.com/10/a2aabc?text=+) `#a2aabc` | Variables, property names, tags                 |
+| ![#706f6d](https://via.placeholder.com/10/706f6d?text=+) `#706f6d` | Comment          |
+| ![#d6d3cd](https://via.placeholder.com/10/d6d3cd?text=+) `#d6d3cd` | Editor foreground, Variables, Colors, String, Symbols, Markdown foreground         |
+| ![#ff5370](https://via.placeholder.com/10/ff5370?text=+) `#FF5370` | Invalid, CSS Class and Support, Sub-methods, Language methods                          |
+| ![#cd8ae7](https://via.placeholder.com/10/cd8ae7?text=+) `#cd8ae7` | Keyword, Storage                       |
+| ![#64c5bd](https://via.placeholder.com/10/64c5bd?text=+) `#64c5bd` | Operator, Misc |
+| ![#bfe037](https://via.placeholder.com/10/bfe037?text=+) `#bfe037` | Tag, Function, Special Method, Class, Support                 |
+| ![#e0954f](https://via.placeholder.com/10/e0954f?text=+) `#e0954f` | Block Level Variables                 |
+| ![#f07178](https://via.placeholder.com/10/f07178?text=+) `#f07178` | Other Variable, String Link                 |
+| ![#bb4c4c](https://via.placeholder.com/10/bb4c4c?text=+) `#bb4c4c` | Number, Constant, Function Argument, Tag Attribute, Embedded                 |
+| ![#7ec5bf](https://via.placeholder.com/10/7ec5bf?text=+) `#7ec5bf` | Attributes                |
 
 
 ## Theming Reference
@@ -53,8 +55,3 @@ The folder and files icon theme used in the screenshot above is [VSCode-Icons](h
 [VS Code Theme Documentation](https://code.visualstudio.com/docs/extensions/themes-snippets-colorizers)
 
 [VS Code Publishing Extensions](https://code.visualstudio.com/docs/extensions/publish-extension)
-
-
-## Shameless Plug
-
-Tokyo Dark theme is also available for [Atom, iTerm, and more!](https://google.com/).
